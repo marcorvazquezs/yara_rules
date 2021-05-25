@@ -1,1 +1,3 @@
-# yara_rules
+# Yara Rules 
+
+A collection of Yara rules 
